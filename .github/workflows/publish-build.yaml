@@ -7,7 +7,7 @@ on:
       - main
 
 env:
-  DOCKER_REGISTRY: ghcr.io/pedrohenriquebrandao/site-devopsdays
+  DOCKER_REGISTRY: ghcr.io/pedrohenriquebrandao/devopsday-aws-deployment
 
 jobs:
   build:
