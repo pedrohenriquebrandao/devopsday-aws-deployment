@@ -7,7 +7,7 @@ on:
       - main
 
 env:
-  DOCKER_REGISTRY: ghcr.io/jonta-sancar/site-devopsdays
+  DOCKER_REGISTRY: ghcr.io/pedrohenriquebrandao/site-devopsdays
 
 jobs:
   build:
